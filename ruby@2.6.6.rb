@@ -1,4 +1,4 @@
-class RubyAT26 < Formula
+class RubyAT266 < Formula
   desc "Powerful, clean, object-oriented scripting language"
   homepage "https://www.ruby-lang.org/"
   url "https://cache.ruby-lang.org/pub/ruby/2.6/ruby-2.6.6.zip"
