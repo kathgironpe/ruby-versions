@@ -1,3 +1,5 @@
+require 'formula'
+
 class RubyAT266 < Formula
   desc "Powerful, clean, object-oriented scripting language"
   homepage "https://www.ruby-lang.org/"
